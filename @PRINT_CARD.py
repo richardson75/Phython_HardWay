@@ -21,5 +21,4 @@ def year_born(age,current_year):  # this is a function that returns something
 	else:
 		return current_year-age-1
 		
-print "I was born in %d" % year_born(age, 2016)nd I am %d years old" % (
-	name, age)
+print "I was born in %d" % year_born(age, 2016)nd I am %d years old" % (name, age)
